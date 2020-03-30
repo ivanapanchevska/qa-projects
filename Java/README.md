@@ -8,6 +8,6 @@ Each topic is grouped
 #SQL 
 * [SQL syntax](https://github.com/ivanapanchevska/qa-projects/blob/master/SQL/README.md) 
 
-* [Automation Testing](https://github.com/ivanapanchevska/qa-projects/tree/master/Automation%20Testing/README.md)
+* [Automation Test](https://github.com/ivanapanchevska/qa-projects/tree/master/Automation%20Testing/README.md)
 
-* [Manual Testing](https://github.com/ivanapanchevska/qa-projects/tree/master/Manual%20Testing/README.md)
+* [Manual Test](https://github.com/ivanapanchevska/qa-projects/tree/master/Manual%20Test/README.md)
