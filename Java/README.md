@@ -1,13 +1,6 @@
-# Quality Assurance Homework examples
+# Java Tasks
 
-As student who finished study program at Seavus Academy for Software Testing, I made list of of homework tasks that I did during my Academy course 
-All homework assignments were completed during the course 
+Part of study program is to excercise Java Programing Language. 
+During the course I gained basic knowledge in the field of Java programming language, such as Object oriented programming, classes(instance variables and methods), inheritence, overriding methods.
 
-Each topic is grouped
-
-#SQL 
-* [SQL syntax](https://github.com/ivanapanchevska/qa-projects/blob/master/SQL/README.md) 
-
-* [Automation Test](https://github.com/ivanapanchevska/qa-projects/tree/master/Automation%20Testing/README.md)
-
-* [Manual Test](https://github.com/ivanapanchevska/qa-projects/tree/master/Manual%20Test/README.md)
+In this final exam, main task was try inheritance and how to override methods in term to change direction of subclasses methods.

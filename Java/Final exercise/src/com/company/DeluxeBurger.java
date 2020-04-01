@@ -1,6 +1,6 @@
 package com.company;
 
-public class DeluxeBurger extends Hamburger{
+public class DeluxeBurger extends Hamburger {
 
     public DeluxeBurger() {
         super("Long Large Seeded Bread", "Chopped Beef");
