@@ -1,9 +1,8 @@
 # Quality Assurance Homework examples
 
-As student who finished study program at Seavus Academy for Software Testing, I made list of of homework tasks that I did during my Academy course 
-All homework assignments were completed during the course.
+Me Ivana Panchevska, as student who finished study program at Seavus Academy for Software Testing, I made list of of homework tasks that I did during my Academy course. All homework assignments were completed during the course.
 
-Each topic is grouped
+List of grouped topics, that we covered during the course
 
 * [SQL syntax](https://github.com/ivanapanchevska/qa-projects/blob/master/SQL/README.md) 
 

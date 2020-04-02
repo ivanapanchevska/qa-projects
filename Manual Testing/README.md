@@ -1,1 +1,1 @@
-# qa-projects
+# Manual Testing
