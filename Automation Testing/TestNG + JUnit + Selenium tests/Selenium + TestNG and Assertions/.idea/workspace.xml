@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="59ec2665-fc63-48a0-b8bf-53c8f7b8339c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZXcSIBUsyJRzIidYwZrasVFX9K" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/java" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+      <recent name="com.ivana.proffesional" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Ivana\Desktop\Ivana SEDC\7-SELENIUM\6-23.03.2020-TestNG and Assertions\src\test\java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.LoginOnGmailAndSendMail">
+    <configuration name="C:/Users/Ivana/Desktop/Ivana SEDC/7-SELENIUM/6-23.03.2020-TestNG and Assertions/testing.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestNG" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testing.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginOnGmailAndSendMail" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestNG" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="LoginOnGmailAndSendMail" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCase2.testcase" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestNG" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestCase2" />
+      <option name="METHOD_NAME" value="testcase" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestNG" type="TestNG" nameIsGenerated="true">
+      <module name="TestNG" />
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestNG" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.LoginOnGmailAndSendMail" />
+        <item itemvalue="TestNG.C:/Users/Ivana/Desktop/Ivana SEDC/7-SELENIUM/6-23.03.2020-TestNG and Assertions/testing.xml" />
+        <item itemvalue="TestNG.TestCase2.testcase" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="59ec2665-fc63-48a0-b8bf-53c8f7b8339c" name="Default Changelist" comment="" />
+      <created>1584988877473</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584988877473</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="402" y="45" key="#TestCase2" timestamp="1585260587745">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="402" y="45" key="#TestCase2/0.0.1366.728@0.0.1366.728" timestamp="1585260587745" />
+    <state x="402" y="45" key="#TestNG" timestamp="1584989279634">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="402" y="45" key="#TestNG/0.0.1366.728@0.0.1366.728" timestamp="1584989279634" />
+    <state x="92" y="92" width="1182" height="544" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1585261791762">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1366.728@0.0.1366.728" timestamp="1585261791762" />
+    <state x="463" y="122" key="FileChooserDialogImpl" timestamp="1586121342014">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="122" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1586121342014" />
+    <state width="1323" height="271" key="GridCell.Tab.0.bottom" timestamp="1586124627414">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="271" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586124627414" />
+    <state width="1323" height="271" key="GridCell.Tab.0.center" timestamp="1586124627413">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="271" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1586124627413" />
+    <state width="1323" height="271" key="GridCell.Tab.0.left" timestamp="1586124627412">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="271" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1586124627412" />
+    <state width="1323" height="271" key="GridCell.Tab.0.right" timestamp="1586124627413">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="271" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1586124627413" />
+    <state x="213" y="22" key="Maven.ArtifactSearchDialog" timestamp="1584989033799">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="213" y="22" key="Maven.ArtifactSearchDialog/0.0.1366.728@0.0.1366.728" timestamp="1584989033799" />
+    <state x="391" y="192" key="com.intellij.ide.util.TipDialog" timestamp="1586120809030">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="391" y="192" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1586120809030" />
+  </component>
+</project>
