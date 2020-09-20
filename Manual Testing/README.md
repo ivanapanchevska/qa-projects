@@ -1,12 +1,10 @@
 # Manual Testing
 
-Here is the list of Manual testing techniques, that we covered during the course.
 
+Software Testing principles and methods, Test design Techniques and Heuristics that we have covered during the course.
 
-```
-TestDesign Techniques DT, ST, PT
-Diagrams for Software Testers
-Experienced Based Test Design
-Change Related Testing
-Defect reporting
-```
+-	Black box testing (Equivalence Partitioning, Boundary Value Analysis, Decision Table Testing, State transition testing)
+-	White box testing (statement and decision coverage),
+-	Experience based technique (Exploratory Testing, Error guessing, Checklist based testing),
+-	Change Related Testing (Smoke, Sanity and Regression)
+-       Defect reporting
