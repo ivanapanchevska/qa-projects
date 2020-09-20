@@ -1,11 +1,9 @@
 # SQL Syntax
 
-All mandatory SQL syntax queries are tried here.
 
-northwindmysqldatabase.sql is playground database, where i tried all SQL queries
-sql_syntax.sql is example of trained SQL queries
+For the purpose of executing the most common SQL syntax queries, I have used playground database (northwindmysqldatabase.sql).
 
-Example of common used SQL queries:
+Examples of executed SQL queries (sql_syntax.sql):
 
 ```
 #Select with conditions
